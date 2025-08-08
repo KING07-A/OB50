@@ -1,0 +1,46 @@
+[
+    {
+        "Id": 101000001,
+        "Type": "AVATAR",
+        "collectionType": "NONE",
+        "name": "Nulla",
+        "desc": "Nobody knows how she got onto Bermuda, except that she was here before everyone else. Extremely good at adapting to the environment, she is like a chameleon that survives and thrives.",
+        "Icon": "Icon_face_female01_head",
+        "Rare": "NONE",
+        "IsUnique": true,
+        "IconInAB": "Icon_In_CDN"
+    },
+    {
+        "Id": 170037028,
+        "Type": "OPTIONAL_BUNDLE",
+        "collectionType": "NONE",
+        "name": "Vehicle Choice Box",
+        "desc": "Open to receive exciting rewards",
+        "Icon": "Icon_OptionalBundle_default",
+        "Rare": "Purple",
+        "IsUnique": false,
+        "IconInAB": "Normal"
+    },
+    {
+        "Id": 2000000073,
+        "Type": "DEBRIS",
+        "collectionType": "NONE",
+        "name": "Clash Squad Cup Upgrade Voucher",
+        "desc": "Use this voucher to upgrade to the Advanced rewards.",
+        "Icon": "Icon_FF_CupMatch_cscup",
+        "Rare": "Purple",
+        "IsUnique": false,
+        "IconInAB": "Normal"
+    },
+    {
+        "Id": 2000000076,
+        "Type": "DEBRIS",
+        "collectionType": "NONE",
+        "name": "Clash Squad Cup Upgrade Voucher",
+        "desc": "Use this voucher to upgrade to the Advanced rewards.",
+        "Icon": "Icon_FF_CupMatch_cscup",
+        "Rare": "Purple",
+        "IsUnique": false,
+        "IconInAB": "Normal"
+    }
+]
