@@ -1,12 +1,23 @@
 [
     {
-        "Id": 203050000,
-        "Type": "CLOTHES",
+        "Id": 101000001,
+        "Type": "AVATAR",
         "collectionType": "NONE",
-        "name": "Violet Strike (Top)",
+        "name": "Nulla",
+        "desc": "Nobody knows how she got onto Bermuda, except that she was here before everyone else. Extremely good at adapting to the environment, she is like a chameleon that survives and thrives.",
+        "Icon": "Icon_face_female01_head",
+        "Rare": "NONE",
+        "IsUnique": true,
+        "IconInAB": "Icon_In_CDN"
+    },
+    {
+        "Id": 101000002,
+        "Type": "AVATAR",
+        "collectionType": "NONE",
+        "name": null,
         "desc": null,
-        "Icon": "Icon_avatar_cos_top_shadowgirl",
-        "Rare": 255,
+        "Icon": "Icon_face_female_2",
+        "Rare": "NONE",
         "IsUnique": true,
         "IconInAB": "Icon_In_CDN"
     },
